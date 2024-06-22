@@ -1,4 +1,4 @@
-This is **_ns-3-allinone_**, a repository with some scripts to download
+This is **_ns-3-allinone-3.38_**, a repository with some scripts to download
 and build the core components around the 
 [ns-3 network simulator](https://www.nsnam.org).
 More information about this can be found in the
