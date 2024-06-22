@@ -2,3 +2,6 @@ buid
 ns-3.38/build
 ns-3.38/*.pcap
 *.pcap
+ns-3.38/.lock-ns3_linux_build
+ns-3.38/cmake-cache/
+ns-3.38/cmake-cache/*
